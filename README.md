@@ -72,8 +72,7 @@ I'm the type to build the tool before I need it. Currently making **OJT Buddy** 
 ### 📊 github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krez-dot&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krez-dot&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" height="160" />
+  <img src="https://streak-stats.demolab.com?user=krez-dot&theme=midnight-purple&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="160" />
 </div>
 
 ---
