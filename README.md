@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>hey, i'm Em 👋</h1>
+<h1>hey, i'm em 👋</h1>
 <p>Full-Stack Developer &nbsp;·&nbsp; BSIT Student @ Tarlac State University &nbsp;·&nbsp; Tarlac City, PH</p>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-4ade80?style=flat-square&labelColor=0d1117" />
